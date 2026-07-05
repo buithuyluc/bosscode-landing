@@ -1,0 +1,104 @@
+.social {
+  background: #fff;
+  padding: clamp(64px, 8vw, 116px) 22px;
+  border-top: 1px solid #ebebf2;
+}
+
+.social-inner {
+  max-width: 1220px;
+  margin: 0 auto;
+}
+
+.social-head {
+  text-align: center;
+  max-width: 720px;
+  margin: 0 auto;
+}
+
+.social-sub {
+  font-size: 17px;
+  color: #55556f;
+  line-height: 1.5;
+  margin: 18px 0 0;
+}
+
+.social-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 22px;
+  margin-top: 52px;
+}
+
+.case-card {
+  border: 1px solid #e6e6ee;
+  border-radius: 10px;
+  overflow: hidden;
+  background: #fff;
+  transition: transform 0.3s, box-shadow 0.3s;
+}
+
+.case-card:hover {
+  transform: translateY(-6px);
+  box-shadow: 0 22px 48px rgba(11, 11, 92, 0.14);
+}
+
+.case-card-img {
+  aspect-ratio: 16 / 10;
+  overflow: hidden;
+  background: var(--navy);
+}
+
+.case-card-img img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  object-position: top left;
+  display: block;
+}
+
+.case-card-body {
+  padding: 20px 22px;
+  font-size: 16.5px;
+  font-weight: 700;
+  line-height: 1.4;
+  color: var(--navy);
+}
+
+.clients {
+  margin-top: 64px;
+  text-align: center;
+}
+
+.clients-row {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  gap: 14px 40px;
+  margin-top: 28px;
+}
+
+.client-name {
+  font-family: Archivo, sans-serif;
+  font-weight: 700;
+  font-size: clamp(17px, 2.2vw, 24px);
+  color: #b0b0c2;
+  letter-spacing: 0.01em;
+  transition: color 0.25s;
+}
+
+.client-name:hover {
+  color: var(--navy);
+}
+
+@media (max-width: 900px) {
+  .social-grid {
+    grid-template-columns: 1fr 1fr;
+  }
+}
+
+@media (max-width: 680px) {
+  .social-grid {
+    grid-template-columns: 1fr;
+  }
+}

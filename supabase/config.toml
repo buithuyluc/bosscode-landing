@@ -1,0 +1,10 @@
+# If you already manage this Supabase project's config.toml elsewhere,
+# merge this section into it instead of using this file standalone.
+#
+# verify_jwt = false because this function is invoked by anonymous site
+# visitors right after they submit the registration form (via the
+# publishable/anon key, not a signed-in user session). The function itself
+# re-reads the registrations row server-side by id before doing anything,
+# so it can't be abused to email arbitrary addresses.
+[functions.send-registration-email]
+verify_jwt = false

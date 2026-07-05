@@ -1,0 +1,59 @@
+.fab-stack {
+  position: fixed;
+  right: 16px;
+  bottom: 16px;
+  z-index: 90;
+  display: flex;
+  flex-direction: column;
+  gap: 11px;
+  align-items: flex-end;
+}
+
+.fab {
+  display: inline-flex;
+  align-items: center;
+  gap: 9px;
+  color: #fff;
+  text-decoration: none;
+  font-weight: 700;
+  font-size: 13.5px;
+  padding: 12px 17px;
+  border-radius: 100px;
+  box-shadow: 0 8px 22px rgba(0, 0, 0, 0.25);
+  transition: transform 0.25s;
+}
+
+.fab:hover {
+  transform: translateY(-2px);
+}
+
+.fab-call {
+  background: #1f8f4d;
+  animation: fabIn 0.5s 0.1s both;
+}
+
+.fab-call-dot {
+  width: 8px;
+  height: 8px;
+  background: #c6ffd8;
+  border-radius: 50%;
+  animation: pulseRing 2s infinite;
+}
+
+.fab-zalo {
+  background: #0068ff;
+  animation: fabIn 0.5s 0.2s both;
+}
+
+.fab-group {
+  background: var(--navy);
+  animation: fabIn 0.5s 0.3s both;
+}
+
+.fab-register {
+  background: var(--red);
+  font-weight: 800;
+  padding: 13px 19px;
+  box-shadow: 0 10px 26px rgba(211, 46, 54, 0.45);
+  animation: fabIn 0.5s 0.4s both, pulseRing 2.6s 0.9s infinite;
+}

@@ -1,0 +1,102 @@
+
+VINALINK ACADEMY
+KẾ HOẠCH KHÓA HỌC 
+BOSSCODE
+CEO / CHỦ TỊCH TỰ TAY XÂY DỰNG APP / AI AGENT RIÊNG KHÔNG CẦN BIẾT CODE
+
+1. TỔNG QUAN
+Thời gian: 9h00 - 17h00, ngày 28/07/2026.
+Địa điểm: TheVuon Luxury, Tầng 3, D2 Giảng Võ &amp; Online Zoom
+Hình thức: một ngày, hai buổi, thực hành trực tiếp tại lớp.
+Đầu ra sau 1 ngày:
+Có ngay 1 trong các hệ thống AI: CRM Sales, CRM Marketing, hoặc Agent quản lý báo cáo, chăm sóc khách hàng, vận hành Sales, vận hành Marketing.
+Hệ thống chạy được ngay sau 1 ngày, không cần biết lập trình.
+2. ĐỐI TƯỢNG VÀ QUY MÔ
+Đối tượng: CEO, Chủ tịch, quản lý cấp cao doanh nghiệp.
+Quy mô: tối đa 100 người một khóa, gồm 10 vé Gold và 90 vé Silver.
+3. MỤC TIÊU ĐÀO TẠO
+CEO / Chủ tịch tự tay dựng một hệ thống / trợ lý AI riêng cho công ty, không cần biết lập trình.
+Giảm tới 90% thời gian quản lý vận hành nhờ trợ lý AI làm thay việc lặp lại.
+Sở hữu ứng dụng báo cáo và quản lý cá nhân chạy bằng AI, không phụ thuộc đội kỹ thuật.
+Biết bắt đầu từ đúng bài toán Kinh doanh - Marketing - Vận hành, không chạy theo công cụ.
+4. NỘI DUNG KHÓA HỌC
+Buổi 1: Từ bài toán doanh nghiệp đến bản thiết kế ứng dụng
+Mục tiêu: CEO / Chủ tịch hiểu AI đang thay thế phần nào của công việc lập trình, chọn được một bài toán thật của doanh nghiệp mình, và vẽ ra bản thiết kế ứng dụng để giải bài toán đó.
+Nội dung:
+<w:left w:space="0" w:sz="0" w:val="nil"/><w:bottom w:space="0" w:sz="0" w:val="nil"/><w:right w:space="0" w:sz="0" w:val="nil"/><w:between w:space="0" w:sz="0" w:val="nil"/></w:pBdr><w:shd w:fill="auto" w:val="clear"/><w:spacing w:after="60" w:before="0" w:line="240" w:lineRule="auto"/><w:ind w:left="420" w:right="0" w:hanging="260"/><w:jc w:val="left"/><w:rPr/></w:pPr><w:r w:rsidDel="00000000" w:rsidR="00000000" w:rsidRPr="00000000"><w:rPr><w:sz w:val="22"/><w:szCs w:val="22"/><w:rtl w:val="0"/></w:rPr><w:t xml:space="preserve">CEO / Chủ tịch khác người viết code ở điểm nào. Phần nào AI làm thay được, phần nào vẫn cần tư duy quản trị của chủ doanh nghiệp.
+<w:left w:space="0" w:sz="0" w:val="nil"/><w:bottom w:space="0" w:sz="0" w:val="nil"/><w:right w:space="0" w:sz="0" w:val="nil"/><w:between w:space="0" w:sz="0" w:val="nil"/></w:pBdr><w:shd w:fill="auto" w:val="clear"/><w:spacing w:after="60" w:before="0" w:line="240" w:lineRule="auto"/><w:ind w:left="420" w:right="0" w:hanging="260"/><w:jc w:val="left"/><w:rPr/></w:pPr><w:r w:rsidDel="00000000" w:rsidR="00000000" w:rsidRPr="00000000"><w:rPr><w:rFonts w:ascii="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman"/><w:b w:val="0"/><w:bCs w:val="0"/><w:i w:val="0"/><w:iCs w:val="0"/><w:smallCaps w:val="0"/><w:strike w:val="0"/><w:color w:val="000000"/><w:sz w:val="22"/><w:szCs w:val="22"/><w:u w:val="none"/><w:shd w:fill="auto" w:val="clear"/><w:vertAlign w:val="baseline"/><w:rtl w:val="0"/></w:rPr><w:t xml:space="preserve">Khai thác bài toán, mỗi CEO / Chủ tịch xác định một vấn đề cụ thể trong công ty mình muốn dùng AI để giải quyết (Marketing, Sales, CSKH, Vận Hành).
+<w:left w:space="0" w:sz="0" w:val="nil"/><w:bottom w:space="0" w:sz="0" w:val="nil"/><w:right w:space="0" w:sz="0" w:val="nil"/><w:between w:space="0" w:sz="0" w:val="nil"/></w:pBdr><w:shd w:fill="auto" w:val="clear"/><w:spacing w:after="60" w:before="0" w:line="240" w:lineRule="auto"/><w:ind w:left="420" w:right="0" w:hanging="260"/><w:jc w:val="left"/><w:rPr/></w:pPr><w:r w:rsidDel="00000000" w:rsidR="00000000" w:rsidRPr="00000000"><w:rPr><w:rFonts w:ascii="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman"/><w:b w:val="0"/><w:bCs w:val="0"/><w:i w:val="0"/><w:iCs w:val="0"/><w:smallCaps w:val="0"/><w:strike w:val="0"/><w:color w:val="000000"/><w:sz w:val="22"/><w:szCs w:val="22"/><w:u w:val="none"/><w:shd w:fill="auto" w:val="clear"/><w:vertAlign w:val="baseline"/><w:rtl w:val="0"/></w:rPr><w:t xml:space="preserve">Vẽ quy trình xử lý bài toán đó bằng lời và bằng sơ đồ tư duy đơn giản.
+<w:left w:space="0" w:sz="0" w:val="nil"/><w:bottom w:space="0" w:sz="0" w:val="nil"/><w:right w:space="0" w:sz="0" w:val="nil"/><w:between w:space="0" w:sz="0" w:val="nil"/></w:pBdr><w:shd w:fill="auto" w:val="clear"/><w:spacing w:after="60" w:before="0" w:line="240" w:lineRule="auto"/><w:ind w:left="420" w:right="0" w:hanging="260"/><w:jc w:val="left"/><w:rPr/></w:pPr><w:r w:rsidDel="00000000" w:rsidR="00000000" w:rsidRPr="00000000"><w:rPr><w:sz w:val="22"/><w:szCs w:val="22"/><w:rtl w:val="0"/></w:rPr><w:t xml:space="preserve">AI Phác thảo giao diện ứng dụng, phần người dùng nhìn thấy và thao tác, và phần dữ liệu vận hành phía sau, giải thích theo cách quản lý hiểu được.
+Thực hành: mỗi CEO / Chủ tịch tự vẽ sơ đồ quy trình và phác thảo giao diện ứng dụng cho bài toán công ty mình, có AI hỗ trợ trong lúc vẽ.
+Đầu ra: một bản mô tả quy trình và bản phác thảo giao diện ứng dụng của riêng CEO / Chủ tịch, sẵn sàng để dựng thành ứng dụng chạy thật ở buổi 2.
+Buổi 2: Dựng ứng dụng chạy thật và chuyển giao quy trình
+Mục tiêu: CEO / Chủ tịch đưa ứng dụng đã thiết kế ở buổi 1 lên chạy thật, kiểm tra sửa lỗi, và biết cách tự nâng cấp thêm sau này.
+Nội dung:
+<w:left w:space="0" w:sz="0" w:val="nil"/><w:bottom w:space="0" w:sz="0" w:val="nil"/><w:right w:space="0" w:sz="0" w:val="nil"/><w:between w:space="0" w:sz="0" w:val="nil"/></w:pBdr><w:shd w:fill="auto" w:val="clear"/><w:spacing w:after="60" w:before="0" w:line="240" w:lineRule="auto"/><w:ind w:left="420" w:right="0" w:hanging="260"/><w:jc w:val="left"/><w:rPr/></w:pPr><w:r w:rsidDel="00000000" w:rsidR="00000000" w:rsidRPr="00000000"><w:rPr><w:rFonts w:ascii="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman"/><w:b w:val="0"/><w:bCs w:val="0"/><w:i w:val="0"/><w:iCs w:val="0"/><w:smallCaps w:val="0"/><w:strike w:val="0"/><w:color w:val="000000"/><w:sz w:val="22"/><w:szCs w:val="22"/><w:u w:val="none"/><w:shd w:fill="auto" w:val="clear"/><w:vertAlign w:val="baseline"/><w:rtl w:val="0"/></w:rPr><w:t xml:space="preserve">Hướng dẫn đưa ứng dụng lên chạy thật trên nền tảng lưu trữ miễn phí.
+<w:left w:space="0" w:sz="0" w:val="nil"/><w:bottom w:space="0" w:sz="0" w:val="nil"/><w:right w:space="0" w:sz="0" w:val="nil"/><w:between w:space="0" w:sz="0" w:val="nil"/></w:pBdr><w:shd w:fill="auto" w:val="clear"/><w:spacing w:after="60" w:before="0" w:line="240" w:lineRule="auto"/><w:ind w:left="420" w:right="0" w:hanging="260"/><w:jc w:val="left"/><w:rPr/></w:pPr><w:r w:rsidDel="00000000" w:rsidR="00000000" w:rsidRPr="00000000"><w:rPr><w:rFonts w:ascii="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman"/><w:b w:val="0"/><w:bCs w:val="0"/><w:i w:val="0"/><w:iCs w:val="0"/><w:smallCaps w:val="0"/><w:strike w:val="0"/><w:color w:val="000000"/><w:sz w:val="22"/><w:szCs w:val="22"/><w:u w:val="none"/><w:shd w:fill="auto" w:val="clear"/><w:vertAlign w:val="baseline"/><w:rtl w:val="0"/></w:rPr><w:t xml:space="preserve">Hướng dẫn đăng ký một địa chỉ web riêng cho ứng dụng (Nếu công ty đã có sẵn tên miền riêng, hướng dẫn cách trỏ về ứng dụng)
+<w:left w:space="0" w:sz="0" w:val="nil"/><w:bottom w:space="0" w:sz="0" w:val="nil"/><w:right w:space="0" w:sz="0" w:val="nil"/><w:between w:space="0" w:sz="0" w:val="nil"/></w:pBdr><w:shd w:fill="auto" w:val="clear"/><w:spacing w:after="60" w:before="0" w:line="240" w:lineRule="auto"/><w:ind w:left="420" w:right="0" w:hanging="260"/><w:jc w:val="left"/><w:rPr/></w:pPr><w:r w:rsidDel="00000000" w:rsidR="00000000" w:rsidRPr="00000000"><w:rPr><w:rFonts w:ascii="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman"/><w:b w:val="0"/><w:bCs w:val="0"/><w:i w:val="0"/><w:iCs w:val="0"/><w:smallCaps w:val="0"/><w:strike w:val="0"/><w:color w:val="000000"/><w:sz w:val="22"/><w:szCs w:val="22"/><w:u w:val="none"/><w:shd w:fill="auto" w:val="clear"/><w:vertAlign w:val="baseline"/><w:rtl w:val="0"/></w:rPr><w:t xml:space="preserve">Chạy thử và sửa lỗi để ứng dụng hoạt động mượt.
+<w:left w:space="0" w:sz="0" w:val="nil"/><w:bottom w:space="0" w:sz="0" w:val="nil"/><w:right w:space="0" w:sz="0" w:val="nil"/><w:between w:space="0" w:sz="0" w:val="nil"/></w:pBdr><w:shd w:fill="auto" w:val="clear"/><w:spacing w:after="60" w:before="0" w:line="240" w:lineRule="auto"/><w:ind w:left="420" w:right="0" w:hanging="260"/><w:jc w:val="left"/><w:rPr/></w:pPr><w:r w:rsidDel="00000000" w:rsidR="00000000" w:rsidRPr="00000000"><w:rPr><w:rFonts w:ascii="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman"/><w:b w:val="0"/><w:bCs w:val="0"/><w:i w:val="0"/><w:iCs w:val="0"/><w:smallCaps w:val="0"/><w:strike w:val="0"/><w:color w:val="000000"/><w:sz w:val="22"/><w:szCs w:val="22"/><w:u w:val="none"/><w:shd w:fill="auto" w:val="clear"/><w:vertAlign w:val="baseline"/><w:rtl w:val="0"/></w:rPr><w:t xml:space="preserve">Thiết lập để ứng dụng tự động cập nhật dữ liệu, không phải nhập tay mỗi ngày.
+<w:left w:space="0" w:sz="0" w:val="nil"/><w:bottom w:space="0" w:sz="0" w:val="nil"/><w:right w:space="0" w:sz="0" w:val="nil"/><w:between w:space="0" w:sz="0" w:val="nil"/></w:pBdr><w:shd w:fill="auto" w:val="clear"/><w:spacing w:after="60" w:before="0" w:line="240" w:lineRule="auto"/><w:ind w:left="420" w:right="0" w:hanging="260"/><w:jc w:val="left"/><w:rPr/></w:pPr><w:r w:rsidDel="00000000" w:rsidR="00000000" w:rsidRPr="00000000"><w:rPr><w:rFonts w:ascii="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman"/><w:b w:val="0"/><w:bCs w:val="0"/><w:i w:val="0"/><w:iCs w:val="0"/><w:smallCaps w:val="0"/><w:strike w:val="0"/><w:color w:val="000000"/><w:sz w:val="22"/><w:szCs w:val="22"/><w:u w:val="none"/><w:shd w:fill="auto" w:val="clear"/><w:vertAlign w:val="baseline"/><w:rtl w:val="0"/></w:rPr><w:t xml:space="preserve">Hướng dẫn cách tự bổ sung thêm tính năng sau khóa học.
+<w:left w:space="0" w:sz="0" w:val="nil"/><w:bottom w:space="0" w:sz="0" w:val="nil"/><w:right w:space="0" w:sz="0" w:val="nil"/><w:between w:space="0" w:sz="0" w:val="nil"/></w:pBdr><w:shd w:fill="auto" w:val="clear"/><w:spacing w:after="60" w:before="0" w:line="240" w:lineRule="auto"/><w:ind w:left="420" w:right="0" w:hanging="260"/><w:jc w:val="left"/><w:rPr/></w:pPr><w:r w:rsidDel="00000000" w:rsidR="00000000" w:rsidRPr="00000000"><w:rPr><w:rFonts w:ascii="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman"/><w:b w:val="0"/><w:bCs w:val="0"/><w:i w:val="0"/><w:iCs w:val="0"/><w:smallCaps w:val="0"/><w:strike w:val="0"/><w:color w:val="000000"/><w:sz w:val="22"/><w:szCs w:val="22"/><w:u w:val="none"/><w:shd w:fill="auto" w:val="clear"/><w:vertAlign w:val="baseline"/><w:rtl w:val="0"/></w:rPr><w:t xml:space="preserve">Trình diễn sản phẩm trước lớp.
+Thực hành: mỗi CEO / Chủ tịch tự tay đưa ứng dụng của mình lên chạy thật, tự kiểm tra và sửa lỗi cùng giảng viên.
+Đầu ra: một ứng dụng chạy thật, có địa chỉ web riêng, tự cập nhật dữ liệu, CEO / Chủ tịch trình diễn trước lớp và mang về dùng ngay.
+5. AGENDA CHI TIẾT 28/07/2026
+Giờ
+Nội dung
+8h30 - 8h55
+Check in, cà phê networking
+8h55 - 9h00
+Khai mạc, giới thiệu mục tiêu và đầu ra cả ngày
+9h15 - 10h30
+- Chủ doanh nghiệp khác lập trình viên ở điểm nào, AI thay thế phần nào của việc viết code
+- Khai thác bài toán doanh nghiệp, mỗi CEO / Chủ tịch chốt một vấn đề thật của công ty mình
+10h30 - 10h45
+Teabreak &amp; Networking
+10h45 - 12h00
+- Vẽ quy trình xử lý bài toán đó bằng lời và bằng sơ đồ tư duy đơn giản
+- AI phác thảo giao diện ứng dụng, phần người dùng thấy và phần dữ liệu vận hành phía sau
+12h00 - 13h30
+Ăn trưa networking
+13h30 - 15h00
+- Đưa ứng dụng lên chạy thật, đăng ký địa chỉ web riêng cho ứng dụng
+- Chạy thử và sửa lỗi để ứng dụng hoạt động mượt
+15h00 - 15h15
+Teabreak &amp; Networking
+15h15 - 16h00
+- Thiết lập để ứng dụng tự động cập nhật dữ liệu, không cần nhập tay
+- Hướng dẫn cách tự bổ sung thêm tính năng sau khóa học
+16h00 - 16h30
+Trình diễn sản phẩm trước lớp
+16h30 - 17h00
+Q&amp;A, tổng kết
+7. BẢNG GIÁ VÉ
+Hạng mục
+Gói Gold
+Gói Silver
+Giá vé
+10.800.000đ
+5.400.000đ
+Vị trí
+Đặc biệt, giới hạn 10 vé
+Tiêu chuẩn, giới hạn 90 vé
+Trợ giảng
+Hỗ trợ trực tiếp
+Trợ giảng chung cả lớp
+Hỗ trợ sau khoá
+Nhóm VIP riêng, hỗ trợ sau 1 tháng
+Không
+Ăn trưa Networking
+Có
+Có
+
+Ưu đãi đặc biệt: thành viên mới đăng ký đặc quyền SUPER VIP Vinalink, hoặc thành viên VIP nâng cấp lên SUPER VIP, được miễn phí khóa BossCode trị giá 10.800.000đ.
+
+8. GIẢNG VIÊN
+Mr. Tuấn Hà 
+Gần 3 thập kỷ đi đầu trong Digital Marketing, AI và chuyển đổi số doanh nghiệp
+Chủ tịch Vinalink, TheVuon, cố vấn Sharktank VietNam
+Sáng lập Hiệp hội M&amp;A Việt Nam (Hiệp hội Mua bán Sáp nhập Doanh nghiệp Việt Nam)
+Đồng sáng lập và Phó chủ tịch VMCC (Cộng đồng tiếp thị và Truyền thông Việt Nam);
+Giảng viên thỉnh giảng cao học Marketing CFVG Pháp Việt, Chuyên gia đào tạo, sáng tạo ý tưởng truyền thông, chuyên gia tư vấn chiến lược Digital Marketing cho 30/100 tập đoàn lớn nhất Việt Nam.
+
+Đăng ký Điền Form / hoặc quýe QR 
