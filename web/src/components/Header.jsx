@@ -26,7 +26,7 @@ export default function Header() {
         </nav>
 
         <div className="hdr-actions">
-          <a href="#dangky" className="hdr-act">
+          <a href="https://bosscode-crm.vercel.app" className="hdr-act">
             <span className="hdr-dot" />
             Đăng nhập
           </a>
